@@ -52,7 +52,7 @@
 		"@codemirror/lang-python": "^6.1.6",
 		"@codemirror/language-data": "^6.5.1",
 		"@codemirror/theme-one-dark": "^6.1.2",
-		"@pyscript/core": "^0.4.32",
+		"@pyscript/core": "^0.6.15",
 		"@sveltejs/adapter-node": "^2.0.0",
 		"@xyflow/svelte": "^0.1.19",
 		"async": "^3.2.5",
