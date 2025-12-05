@@ -15,7 +15,7 @@ aiohttp==3.10.8
 
 sqlalchemy==2.0.32
 alembic==1.13.2
-peewee==3.17.6
+peewee==3.18.3
 peewee-migrate==1.12.2
 psycopg2-binary==2.9.9
 PyMySQL==1.1.1
@@ -86,3 +86,4 @@ duckduckgo-search~=6.2.13
 docker~=7.1.0
 pytest~=8.3.2
 pytest-docker~=3.1.1
+werkzeug>=3.1.4 # not directly required, pinned by Snyk to avoid a vulnerability
