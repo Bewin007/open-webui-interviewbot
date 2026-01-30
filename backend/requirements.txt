@@ -48,7 +48,7 @@ einops==0.8.0
 
 
 ftfy==6.2.3
-pypdf==4.3.1
+pypdf==6.6.2
 docx2txt==0.8
 python-pptx==1.0.0
 unstructured==0.15.9
@@ -86,3 +86,4 @@ duckduckgo-search~=6.2.13
 docker~=7.1.0
 pytest~=8.3.2
 pytest-docker~=3.1.1
+protobuf>=6.33.5 # not directly required, pinned by Snyk to avoid a vulnerability
